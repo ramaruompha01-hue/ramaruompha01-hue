@@ -26,8 +26,11 @@
 | 5 | Quantium Chips Category Analysis | R, ggplot2, dplyr | [View Project](https://github.com/ramaruompha01-hue/quantium-chips-category-analysis) |
 | 6 | Quantium Store Trial Analysis | R, dplyr, lubridate | [View Project](https://github.com/ramaruompha01-hue/quantium-store-trial-analysis) |
 
-## 📈 GitHub Stats
-![Ompha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📈 Current Focus
+- 🔨 Building my Data Analytics & BI Developer portfolio
+- 📚 Learning Microsoft Fabric & Python
+- 🎯 Seeking Junior Data Analyst or BI Developer opportunities
+- 🌍 Open to remote and Johannesburg based roles
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ompha-ramaru-37a027249)
